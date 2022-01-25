@@ -1,0 +1,16 @@
+
+.userbutton{
+    background-color:rgb(92, 230, 255);
+    border:none;
+    padding: 10px;
+    font-weight: 700;
+    cursor:pointer;    
+    color:rgb(255, 248, 248);
+}
+.userbutton:hover{
+    color:white;
+    background-color:rgb(11, 214, 250);
+}
+.userinput{
+    width:80%;
+}
